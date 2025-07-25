@@ -32,6 +32,7 @@ keyword 100 --> [accepted answer 1, accepted answer 2, ..., accepted answer n100
 The keywords are meant to replace the <L> tags in the question_patterns_used.txt file, while the "accepted answers" are considered correct answers to the resulting question.
 
 
+Moreover, we provide EM+CM results of all our tested configurations
 
 
 
