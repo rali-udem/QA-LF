@@ -1,0 +1,91 @@
+A_0 question patterns
+1. Quelle est une lexie adjectivale ayant le même sens que "<L>" ? Donne que la réponse 
+2. Quel est l’adjectif correspondant au mot "<L>" ? Donne un seul adjectif sans ponctuation. Donne que la réponse 
+3. Transforme le mot "<L>" en adjectif. Donne un seul adjectif conjugué au masculin, et sans ponctuation. Donne que la réponse 
+4. Quel est l’adjectif formé à partir du mot "<L>" ? Donne un seul adjectif conjugué au masculin, et sans ponctuation.  Donne que la réponse 
+5. Quel est l’adjectif dérivé du mot "<L>" ? Donne un seul adjectif conjugué au masculin, et sans ponctuation. Donne que la réponse 
+6. Quelle est une lexie adjectivale ayant le même sens (ou presque) que "<L>" ? Donne un seul adjectif conjugué au masculin, et sans ponctuation. Donne que la réponse 
+
+Adv_0 question patterns
+1. Quelle est une lexie adverbiale ayant le même sens que "<L>" ?  Donne que la réponse 
+2. Quel est l’adverbe correspondant au mot "<L>" ? Donne un seul adverbe sans ponctuation.  Donne que la réponse 
+3. Quel est l’adverbe formé à partir du mot "<L>" ? Donne un seul adverbe sans ponctuation.  Donne que la réponse 
+4. Quel est l’adverbe dérivé du mot "<L>" ? Donne un seul adverbe sans ponctuation.  Donne que la réponse 
+5. Transforme le mot "<L>" en adverbe. Donne un seul adverbe sans ponctuation.  Donne que la réponse 
+6. Quelle est une lexie adverbiale ayant le même sens que "<L>" ? Donne un seul adverbe sans ponctuation.  Donne que la réponse 
+
+Anti question patterns
+1. Quel est un antonyme  de "<L>" ? Donne que la réponse 
+2. Quel est l’antonyme du mot "<L>" ? Donne un seul mot sans ponctuation. Donne que la réponse 
+3. Quel est le contraire du mot "<L>" ? Donne un seul mot sans ponctuation. Donne que la réponse 
+4. Quel est l’opposé du mot "<L>" ? Donne un seul mot sans ponctuation. Donne que la réponse 
+5. Quel mot a un sens correspondant au sens de "<L>" dans lequel est insérée une négation ? Donne un seul mot sans ponctuation. Donne que la réponse 
+
+Contr question patterns
+1. Quelle est une lexie en opposition sémantique contrastive avec "<L>", souvent pour des fins stylistiques ? Donne que la réponse 
+2. Quel mot crée un contraste avec, mais n’est pas l’antonyme de, "<L>" ? Donne un seul mot sans ponctuation. Quel est l’opposé, mais pas l’antonyme de, "<L>" ? Donne un seul mot sans ponctuation. Donne que la réponse 
+3. Quel mot est l’opposé de "<L>", sans être son contraire ? Donne un seul mot sans ponctuation. Donne que la réponse 
+4. Quel mot est en opposition contrastive sur le plan sémantique avec "<L>" ? Donne un seul mot sans ponctuation. Donne que la réponse 
+
+Gener question patterns
+1. Quelle est un hyperonyme classifiant de "<L>" ? Donne que la réponse 
+2. Quelle est un hyperonyme de "<L>" ? Donne que la réponse 
+
+Magn question patterns
+1. Quelle est une lexie adjectivale ou adverbiale que le locuteur utilise comme modificateur de "<L>" pour exprimer un sens du type « très », « beaucoup », « intense », « intensément », etc. ?  Donne que la réponse 
+2. Quel est un adjectif ou adverbe que le locuteur utilise comme modificateur de "<L>" pour exprimer son intensification ? Donne que la réponse 
+
+Mult question patterns
+1. Quelle est une lexie qui désigne un ensemble de "<L>" ?  Donne que la réponse 
+
+Redun question patterns
+1. Quelle est une lexie adjectivale ou adverbiale que le locuteur utilise comme modificateur redondant de "<L>" pour préciser un sens ou une nuance spécifique de "<L>"?  Donne que la réponse 
+2. Quelle est une lexie adjectivale ou adverbiale que le locuteur utilise comme modificateur redondant de "<L>" pour préciser un sens ou une nuance spécifique de "<L>"?  Donne que la réponse 
+
+S_0 question patterns
+1. Quelle est une lexie nominale ayant le même sens que "<L>" ?  Donne que la réponse 
+2. Quel est le nom commun correspondant au verbe ou à l’adjectif "<L>" ? Donne un seul nom commun sans ponctuation.  Donne que la réponse 
+3. Quel est le nom commun du verbe ou l’adjectif "<L>" ? Donne un seul nom commun sans ponctuation.  Donne que la réponse 
+4. Quel est le nom commun formé à partir du mot "<L>" ? Donne un seul nom commun sans ponctuation.  Donne que la réponse 
+5. Quel est le nom commun formé à partir du verbe ou de l’adjectif "<L>" ? Donne un seul nom commun sans ponctuation.  Donne que la réponse 
+6. Quel est le nom commun dérivé du mot "<L>" ? Donne un seul nom commun sans ponctuation.  Donne que la réponse 
+7. Quel est le nom commun dont "<L>" est la racine ? Donne un seul nom commun sans ponctuation.  Donne que la réponse 
+8. Transforme le mot "<L>" en nom commun. Donne un seul nom commun sans ponctuation.  Donne que la réponse 
+9. Quelle est une lexie nominale ayant le même sens que "<L>" ? Donne un seul nom commun sans ponctuation.  Donne que la réponse 
+
+S_instr question patterns
+1. Quelle est une lexie nominale qui désigne le circonstant instrumental typique de "<L>" ? Donne que la réponse 
+2. Quel est un nom qui désigne l’instrumental typique associé à "<L>" ? Donne que la réponse 
+
+S_loc question patterns
+1. Quelle est une lexie nominale qui désigne un circonstant de lieu typique de "<L>" ?  Donne que la réponse 
+2. Quel est un nom qui décrit la localisation de "<L>" ? Donne un seul nom sans ponctuation. Donne le lieu typique de "<L>" ? Donne un seul nom sans ponctuation.  Donne que la réponse 
+3. Donne le lieu ou le moment typique de "<L>" ? Donne un seul nom sans ponctuation.  Donne que la réponse 
+4. À quel endroit se trouve "<L>" ? Donne un seul nom sans ponctuation.  Donne que la réponse 
+5. Quelle est une lexie nominale qui désigne un circonstant de lieu typique de, ou d’un fait lié à "<L>" ? Donne un seul nom sans ponctuation.  Donne que la réponse 
+
+S_res question patterns
+1. Quelle est une lexie nominale qui désigne un circonstant de résultat typique de "<L>" ?  Donne que la réponse 
+2. Quel est un résultat typique de l’acte associé au mot "<L>" ? Donne un seul mot sans ponctuation.  Donne que la réponse 
+3. Quel est un résultat de l’acte associé au mot "<L>" ? Donne un seul mot sans ponctuation.  Donne que la réponse 
+4. En quoi résulte l’acte de "<L>" ? Donne un seul mot sans ponctuation.  Donne que la réponse 
+5. Quelle est une lexie nominale qui désigne un circonstant de résultat typique de "<L>" ? Donne un seul mot sans ponctuation.  Donne que la réponse 
+
+Sing question patterns
+1. Quelle est une lexie qui désigne une unité de "<L>" ?  Donne que la réponse 
+2. Quel est un mot désignant une unité de "<L>" ? Donne un mot sans ponctuation.  Donne que la réponse 
+3. Comment appelle-t-on une unité de "<L>" ? Donne un mot sans ponctuation.  Donne que la réponse 
+4. Comment appelle-t-on une seule partie de "<L>" ? Donne un mot sans ponctuation.  Donne que la réponse 
+5. Donne une lexie qui désigne une unit ́e de "<L>" ? Donne un mot sans ponctuation.  Donne que la réponse 
+
+Syn question patterns
+1. Quel est un synonyme  de "<L>" ? Donne que la réponse 
+
+V_0 question patterns
+1. Quelle est une lexie verbale ayant le même sens que "<L>" ? Donne que la réponse 
+2. Quel est le verbe correspondant au mot "<L>" ? Donne un seul verbe sans ponctuation.  Donne que la réponse 
+3. Quel est le verbe formé à partir du mot "<L>" ? Donne un seul verbe sans ponctuation.  Donne que la réponse 
+4. Quel est le verbe dérivé du mot "<L>" ? Donne un seul verbe sans ponctuation.  Donne que la réponse 
+5. Transforme le mot "<L>" en verbe. Donne un seul verbe sans ponctuation. Donne que la réponse 
+6. Quelle est une lexie verbale ayant le même sens que "<L>" ? Donne un seul verbe sans ponctuation. Donne que la réponse 
+
