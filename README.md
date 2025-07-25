@@ -23,7 +23,18 @@ prompting improve performance, especially on
 semantically complex functions.
 
 
-This repository will contain the dataset and resources related to the above paper.
+This repository contains a directory (keyword + accepted answers).
+In it, there are files for each LF used. The pattern is as follows
+keyword 1 --> [accepted answer 1, accepted answer 2, ..., accepted answer n1]
+...
+keyword 100 --> [accepted answer 1, accepted answer 2, ..., accepted answer n100]
+
+The keywords are meant to replace the <L> tags in the question_patterns_used.txt file, while the "accepted answers" are considered correct answers to the resulting question.
+
+
+
+
+
 
 
 
