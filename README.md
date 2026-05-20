@@ -35,7 +35,7 @@ The keywords are meant to replace the <L> tags in the question_patterns_used.txt
 Moreover, we provide EM+CM results of all our tested configurations
 
 
-
+We add 6 LFs (S_1, S_2, S_3, A_1, Oper_1, Real_1) that focus on actantial roles of the keyword.
 
 
 
