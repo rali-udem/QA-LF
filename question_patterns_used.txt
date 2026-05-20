@@ -89,3 +89,26 @@ V_0 question patterns
 5. Transforme le mot "<L>" en verbe. Donne un seul verbe sans ponctuation. Donne que la réponse 
 6. Quelle est une lexie verbale ayant le même sens que "<L>" ? Donne un seul verbe sans ponctuation. Donne que la réponse 
 
+S_1 question patterns
+1. Quelle est une lexie nominale qui désigne le premier actant syntaxique profond typique de <L>? . Donne que la réponse
+2. Quel nom remplace le mieux le symbole '$1' dans <actantL>? . Donne que la réponse
+
+S_2 question patterns
+1. Quelle est une lexie nominale qui désigne le deuxième actant syntaxique profond typique de <L>? . Donne que la réponse
+2. Quel nom remplace le mieux le symbole '$2' dans <actantL>? . Donne que la réponse
+
+S_3 question patterns
+1. Quelle est une lexie nominale qui désigne le troisième actant syntaxique profond typique de <L>? . Donne que la réponse
+2. Quel nom remplace le mieux le symbole '$3' dans <actantL>? . Donne que la réponse
+
+A_1 question patterns
+1. Quelle est une lexie adjectivale qui désigne la caractéristique d’être le premier actant syntaxique profond typique de <L>? . Donne que la réponse
+2. Quel adjectif décrit le mieux le symbole '$1' dans <actantL>? . Donne que la réponse
+
+Oper_1 question patterns
+1. Quel est un verbe support qui prend <L> comme deuxième actant syntaxique profond et l’expression du premier actant syntaxique profond de <L> comme premier actant syntaxique profond? . Donne que la réponse
+2. Quel verbe support prend comme sujet la valeur de $1 dans <actantL> et prend <L> comme premier complément? . Donne que la réponse
+
+Real_1 question patterns
+1. Quel est un verbe de réalisation à rapprocher de réaliser/utiliser qui prend <L> comme deuxième actant syntaxique profond et l’expression du premier actant syntaxique profond de <L> comme premier actant syntaxique profond? . Donne que la réponse
+2. Quel est un verbe de réalisation à rapprocher de réaliser/utiliser qui prend comme sujet la valeur de $1 dans <actantL> et qui prend <L> comme premier complément? . Donne que la réponse
